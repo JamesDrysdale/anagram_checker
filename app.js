@@ -10,4 +10,4 @@ function compareWords(firstWord, secondWord){
 
 
 
-compareWords("squirrel", "Squi rrel");
+compareWords("squirrel", "Squi rrel@");
